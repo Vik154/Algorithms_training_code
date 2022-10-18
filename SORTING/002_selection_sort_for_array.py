@@ -13,7 +13,7 @@ def selection_sort(array):
             temp = array[i]
             array[i] = array[min_index]
             array[min_index] = temp
-"""*****************************************************"""
+"""*********************--******************************"""
 
 # Создание массива заданного количества
 def create_array(size_element):

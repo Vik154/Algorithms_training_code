@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime>
 
-// Сортировка выбором - selection_sort
+// Сортировка выбором --- selection_sort
 /************************************************************/
 template <typename Type>							    /****/
 void selection_sort(Type *parray, size_t size) {		/****/
