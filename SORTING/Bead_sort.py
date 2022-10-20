@@ -2,7 +2,7 @@ import random
 import time
 
 """*****Бисерная (гравитационная) сортировка - bead_sort****"""
-def beadsort(input_list):
+def bead_sort(input_list):
     return_list = []
     # Создание списка из нулей, максимальная длина которого равна максимуму списка.
     transposed_list = [0] * max(input_list)     # Это список с упавшими бусинами.
