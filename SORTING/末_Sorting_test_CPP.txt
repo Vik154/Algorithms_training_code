@@ -1,0 +1,195 @@
+"Bubble_sort" ---> 		size: 1000; 	time: 0,018000 ρεκ.;
+"Bubble_sort" ---> 		size: 10000; 	time: 1,050000 ρεκ.;
+"Bubble_sort" ---> 		size: 100000; 	time: 88,943000 ρεκ.;
+
+"Odd_even_sort" ---> 	size: 1000; 	time: 0,043000 ρεκ.;
+"Odd_even_sort" ---> 	size: 10000; 	time: 2,281000 ρεκ.;
+"Odd_even_sort" ---> 	size: 100000; 	time: 224,592000 ρεκ.;
+
+"Shaker_sort" ---> 		size: 1000; 	time: 0,012000 ρεκ.;
+"Shaker_sort" ---> 		size: 10000; 	time: 0,588000 ρεκ.;
+"Shaker_sort" ---> 		size: 100000; 	time: 59,966000 ρεκ.;
+
+"Comb_sort" ---> 		size: 1000;	time: 0,009000 ρεκ.;
+"Comb_sort" ---> 		size: 10000; 	time: 0,014000 ρεκ.;
+"Comb_sort" ---> 		size: 100000; 	time: 0,132000 ρεκ.;
+"Comb_sort" ---> 		size: 1000000; 	time: 1,182000 ρεκ.;
+"Comb_sort" ---> 		size: 10000000; 	time: 11,245000 ρεκ.;
+
+"Gnome_sort" ---> 		size: 1000; 	time: 0,009000 ρεκ.;
+"Gnome_sort" ---> 		size: 10000; 	time: 0,309000 ρεκ.;
+"Gnome_sort" ---> 		size: 100000; 	time: 15,550000 ρεκ.;
+"Gnome_sort" ---> 		size: 1000000; 	time: 2508,594000 ρεκ.;
+
+"Slow_sort" ---> 		size: 100;		time: 0,102000 ρεκ.;
+"Slow_sort" ---> 		size: 200;		time: 5,203000 ρεκ.;
+
+"Quick_sort" ---> 		size: 1000;	time: 0,005000 ρεκ.;
+"Quick_sort" ---> 		size: 10000; 	time: 0,010000 ρεκ.;
+"Quick_sort" ---> 		size: 100000; 	time: 0,047000 ρεκ.;
+"Quick_sort" --->		size: 1000000; 	time: 0,332000 ρεκ.;
+"Quick_sort" --->		size: 10000000; 	time: 3,209000 ρεκ.;
+"Quick_sort" --->		size: 100000000; 	time: 30,969000 ρεκ.;
+
+"Shell_sort" ---> 		size: 1000; 	time: 0,006000 ρεκ.;
+"Shell_sort" ---> 		size: 10000; 	time: 0,010000 ρεκ.;
+"Shell_sort" ---> 		size: 100000; 	time: 0,090000 ρεκ.;
+"Shell_sort" ---> 		size: 1000000; 	time: 0,944000 ρεκ.;
+"Shell_sort" ---> 		size: 10000000; 	time: 12,683000 ρεκ.;
+"Shell_sort" ---> 		size: 100000000; 	time: 175,856000 ρεκ.;
+
+"Insertion_sort" ---> 	size: 1000; 	time: 0,008000 ρεκ.;
+"Insertion_sort" ---> 	size: 10000; 	time: 0,266000 ρεκ.;
+"Insertion_sort" ---> 	size: 100000; 	time: 24,322000 ρεκ.;
+
+"Binary_insertion_sort" ---> 	size: 1000; 	time: 0,006000 ρεκ.;
+"Binary_insertion_sort" ---> 	size: 10000; 	time: 0,211000 ρεκ.;
+"Binary_insertion_sort" ---> 	size: 100000; 	time: 16,977000 ρεκ.;
+
+"Pancake_sort" ---> 	size: 1000; 	time: 0,015000 ρεκ.;
+"Pancake_sort" ---> 	size: 10000; 	time: 0,658000 ρεκ.;
+"Pancake_sort" ---> 	size: 100000; 	time: 50,251000 ρεκ.;
+
+"Heap_sort" ---> 		size: 1000; 	time: 0,005000 ρεκ.;
+"Heap_sort" ---> 		size: 10000; 	time: 0,025000 ρεκ.;
+"Heap_sort" ---> 		size: 100000; 	time: 0,224000 ρεκ.;
+"Heap_sort" ---> 		size: 1000000; 	time: 2,486000 ρεκ.;
+"Heap_sort" ---> 		size: 10000000; 	time: 30,463000 ρεκ.;
+"Heap_sort" ---> 		size: 100000000; 	time: 442,094000 ρεκ.;
+
+"Cycle_sort" ---> 		size: 1000; 	time: 0,023000 ρεκ.;
+"Cycle_sort" ---> 		size: 10000; 	time: 1,393000 ρεκ.;
+"Cycle_sort" ---> 		size: 100000; 	time: 130,259000 ρεκ.;
+
+"Selection_sort" ---> 	size: 1000; 	time: 0,009000 ρεκ.;
+"Selection_sort" ---> 	size: 10000; 	time: 0,353000 ρεκ.;
+"Selection_sort" ---> 	size: 100000; 	time: 33,686000 ρεκ.;
+
+"Pigeonhole_sort" ---> 	size: 1000; 	time: 0,004000 ρεκ.;
+"Pigeonhole_sort" ---> 	size: 10000; 	time: 0,006000 ρεκ.;
+"Pigeonhole_sort" ---> 	size: 100000; 	time: 0,012000 ρεκ.;
+"Pigeonhole_sort" ---> 	size: 1000000; 	time: 0,031000 ρεκ.;
+"Pigeonhole_sort" ---> 	size: 10000000; 	time: 0,275000 ρεκ.;
+"Pigeonhole_sort" ---> 	size: 100000000; 	time: 1,960000 ρεκ.;
+"Pigeonhole_sort" ---> 	size: 1000000000; 	time: 174,459000 ρεκ.;
+
+"Bead_sort" ---> 		size: 1000; 	time: 1,221000 ρεκ.;
+"Bead_sort" ---> 		size: 10000; 	time: 12,980000 ρεκ.;
+"Bead_sort" ---> 		size: 100000; 	time: ERROR - Οεπεοξλνενθε αστεπΰ;
+
+"Bucket_sort" --->		size: 1000; 	time: 0,017000 ρεκ.;
+"Bucket_sort" ---> 		size: 10000; 	time: 0,012000 ρεκ.;
+"Bucket_sort" ---> 		size: 100000; 	time: 0,037000 ρεκ.;
+"Bucket_sort" ---> 		size: 1000000; 	time: 0,312000 ρεκ.;
+"Bucket_sort" ---> 		size: 10000000; 	time: 2,588000 ρεκ.;
+"Bucket_sort" ---> 		size: 100000000; 	time: 45,854000 ρεκ.; 
+"Bucket_sort" ---> 		size: 1000000000; 	time: ERROR - Οεπεοξλνενθε; 
+
+"Bucket_sort_V2" --->	size: 1000; 	time: 0,013000 ρεκ.;
+"Bucket_sort_V2" ---> 	size: 10000; 	time: 0,013000 ρεκ.;
+"Bucket_sort_V2" ---> 	size: 100000; 	time: 0,074000 ρεκ.;
+"Bucket_sort_V2" ---> 	size: 1000000; 	time: 0,673000 ρεκ.;
+"Bucket_sort_V2" ---> 	size: 10000000; 	time: 6,230000 ρεκ.;
+"Bucket_sort_V2" ---> 	size: 100000000; 	time: 79,333000 ρεκ.;
+
+"Radix_sort" ---> 		size: 1000; 	time: 0,017000 ρεκ.;
+"Radix_sort" ---> 		size: 10000; 	time: 0,015000 ρεκ.;
+"Radix_sort" ---> 		size: 100000; 	time: 0,099000 ρεκ.;
+"Radix_sort" ---> 		size: 1000000; 	time: 0,683000 ρεκ.;
+"Radix_sort" ---> 		size: 10000000; 	time: 5,524000 ρεκ.;
+"Radix_sort" ---> 		size: 100000000; 	time: 64,526000 ρεκ.;
+
+"Radix_sort_V2" ---> 	size: 1000; 	time: 0,012000 ρεκ.;
+"Radix_sort_V2" ---> 	size: 10000; 	time: 0,025000 ρεκ.;
+"Radix_sort_V2" ---> 	size: 100000; 	time: 0,137000 ρεκ.;
+"Radix_sort_V2" ---> 	size: 1000000; 	time: 0,874000 ρεκ.;
+"Radix_sort_V2" ---> 	size: 10000000; 	time: 8,474000 ρεκ.;
+"Radix_sort_V2" ---> 	size: 100000000; 	time: 84,104000 ρεκ.;
+
+"Count_sort" ---> 		size: 1000; 	time: 0,014000 ρεκ.;
+"Count_sort" ---> 		size: 10000; 	time: 0,007000 ρεκ.;
+"Count_sort" ---> 		size: 100000; 	time: 0,019000 ρεκ.;
+"Count_sort" ---> 		size: 1000000; 	time: 0,227000 ρεκ.;
+"Count_sort" ---> 		size: 10000000; 	time: 2,702000 ρεκ.;
+"Count_sort" ---> 		size: 100000000; 	time: 32,195000 ρεκ.;
+
+"Strand_sort" ---> 		size: 1000; 	time: 0,075000 ρεκ.;
+"Strand_sort" ---> 		size: 10000; 	time: 1,333000 ρεκ.;
+"Strand_sort" ---> 		size: 100000; 	time: 48,934000 ρεκ.;
+
+"Merge_sort" ---> 		size: 1000; 	time: 0,010000 ρεκ.;
+"Merge_sort" ---> 		size: 10000; 	time: 0,023000 ρεκ.;
+"Merge_sort" ---> 		size: 100000; 	time: 0,230000 ρεκ.;
+"Merge_sort" ---> 		size: 1000000; 	time: 2,140000 ρεκ.;
+"Merge_sort" ---> 		size: 10000000; 	time: 22,954000 ρεκ.;
+"Merge_sort" ---> 		size: 100000000; 	time: 265,275000 ρεκ.;
+
+"Merge_sort_V2" ---> 	size: 1000; 	time: 0,007000 ρεκ.;
+"Merge_sort_V2" ---> 	size: 10000; 	time: 0,018000 ρεκ.;
+"Merge_sort_V2" ---> 	size: 100000; 	time: 0,175000 ρεκ.;
+"Merge_sort_V2" ---> 	size: 1000000; 	time: 1,498000 ρεκ.;
+"Merge_sort_V2" ---> 	size: 10000000; 	time: 15,081000 ρεκ.;
+"Merge_sort_V2" ---> 	size: 100000000; 	time: 163,070000 ρεκ.;
+
+"Tim_sort" ---> 		size: 1000; 	time: 0,006000 ρεκ.;
+"Tim_sort" ---> 		size: 10000; 	time: 0,015000 ρεκ.;
+"Tim_sort" ---> 		size: 100000; 	time: 0,063000 ρεκ.;
+"Tim_sort" ---> 		size: 1000000; 	time: 0,593000 ρεκ.;
+"Tim_sort" ---> 		size: 10000000; 	time: 6,586000 ρεκ.;
+"Tim_sort" ---> 		size: 100000000; 	time: 92,469000 ρεκ.;
+
+"Bitonic_sort" ---> 		size: 8; 		time: 0,007000 ρεκ.;
+"Bitonic_sort" ---> 		size: 16; 		time: 0,006000 ρεκ.;
+"Bitonic_sort" ---> 		size: 1024; 	time: 0,021000 ρεκ.;
+"Bitonic_sort" ---> 		size: 16384; 	time: 0,082000 ρεκ.;
+"Bitonic_sort" ---> 		size: 131072; 	time: 0,706000 ρεκ.;
+"Bitonic_sort" ---> 		size: 1048576; 	time: 6,886000 ρεκ.;
+"Bitonic_sort" ---> 		size: 16777216; 	time: 138,450000 ρεκ.;
+
+"Intro_sort" ---> 		size: 1000; 	time: 0,005000 ρεκ.;
+"Intro_sort" ---> 		size: 10000; 	time: 0,014000 ρεκ.;
+"Intro_sort" ---> 		size: 100000; 	time: 0,149000 ρεκ.;
+"Intro_sort" ---> 		size: 1000000; 	time: 1,645000 ρεκ.;
+"Intro_sort" ---> 		size: 10000000; 	time: 17,179000 ρεκ.;
+"Intro_sort" ---> 		size: 100000000; 	time: 137,566000 ρεκ.;
+
+"Tree_sort" ---> 		size: 1000; 	time: 0,009000 ρεκ.;
+"Tree_sort" ---> 		size: 10000; 	time: 0,026000 ρεκ.;
+"Tree_sort" ---> 		size: 100000; 	time: 0,303000 ρεκ.;
+"Tree_sort" ---> 		size: 1000000; 	time: 7,213000 ρεκ.;
+"Tree_sort" ---> 		size: 10000000; 	time: 592,230000 ρεκ.;
+
+"STD::Sort" ---> 		size: 1000; 	time: 0,004000 ρεκ.;
+"STD::Sort" ---> 		size: 10000; 	time: 0,021000 ρεκ.;
+"STD::Sort" ---> 		size: 100000; 	time: 0,212000 ρεκ.;
+"STD::Sort" ---> 		size: 1000000; 	time: 1,598000 ρεκ.;
+"STD::Sort" ---> 		size: 10000000; 	time: 15,297000 ρεκ.;
+"STD::Sort" ---> 		size: 100000000; 	time: 105,975000 ρεκ.;
+
+"STD::Stable_sort" ---> 	size: 1000; 	time: 0,006000 ρεκ.;
+"STD::Stable_sort" ---> 	size: 10000; 	time: 0,019000 ρεκ.;
+"STD::Stable_sort" ---> 	size: 100000; 	time: 0,155000 ρεκ.;
+"STD::Stable_sort" ---> 	size: 1000000; 	time: 1,397000 ρεκ.;
+"STD::Stable_sort" ---> 	size: 10000000; 	time: 15,348000 ρεκ.;
+"STD::Stable_sort" ---> 	size: 100000000; 	time: 159,469000 ρεκ.;
+
+"STD::Partial_sort" ---> 	size: 1000; 	time: 0,007000 ρεκ.;
+"STD::Partial_sort" ---> 	size: 10000; 	time: 0,019000 ρεκ.;
+"STD::Partial_sort" ---> 	size: 100000; 	time: 0,132000 ρεκ.;
+"STD::Partial_sort" ---> 	size: 1000000; 	time: 1,696000 ρεκ.;
+"STD::Partial_sort" ---> 	size: 10000000; 	time: 22,185000 ρεκ.;
+"STD::Partial_sort" ---> 	size: 100000000; 	time: 306,363000 ρεκ.;
+
+"STD::Sort_heap" ---> 	size: 1000; 	time: 0,007000 ρεκ.;
+"STD::Sort_heap" ---> 	size: 10000; 	time: 0,021000 ρεκ.;
+"STD::Sort_heap" ---> 	size: 100000; 	time: 0,182000 ρεκ.;
+"STD::Sort_heap" ---> 	size: 1000000; 	time: 1,756000 ρεκ.;
+"STD::Sort_heap" ---> 	size: 10000000; 	time: 22,982000 ρεκ.;
+"STD::Sort_heap" ---> 	size: 100000000; 	time: 309,567000 ρεκ.;
+
+"STD::Qsort" ---> 		size: 1000; 	time: 0,007000 ρεκ.;
+"STD::Qsort" ---> 		size: 10000; 	time: 0,013000 ρεκ.;
+"STD::Qsort" ---> 		size: 100000; 	time: 0,104000 ρεκ.;
+"STD::Qsort" ---> 		size: 1000000; 	time: 0,924000 ρεκ.;
+"STD::Qsort" ---> 		size: 10000000; 	time: 6,067000 ρεκ.;
+"STD::Qsort" ---> 		size: 100000000; 	time: 83,812000 ρεκ.;
