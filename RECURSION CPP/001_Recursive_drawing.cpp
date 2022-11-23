@@ -65,11 +65,11 @@ public:
 			random_console(count / 2);
 		*/
 	}
-	void fill(int x, int y) {
-		if (!empty(x, y))
-			return;
-		Sleep(30);
-		set_map(x, y, 0);	fill(x - 1, y);
+	void fill(int x, int y) {					// Рекурсивное заполнение окошка
+		if (!empty(x, y))						// Проверка валидности координат x и y
+			return;								// Если не вышли за заданный диапозон окна - выполнять логику
+		Sleep(30);								// Задержка небольшая, чтобы залипать в работу рекурсии
+		set_map(x, y, 0);	fill(x - 1, y);		// set - установка направления рекурсии, fill - рекурсивный обход
 		set_map(x, y, 1);	fill(x + 1, y);
 		set_map(x, y, 2);	fill(x, y - 1);
 		set_map(x, y, 3);   fill(x, y + 1);
